@@ -1,0 +1,1 @@
+['0.009*enron + 0.008*please + 0.007*would + 0.005*thanks + 0.005*know + 0.004*vince + 0.004*get + 0.004*let + 0.004*time + 0.003*one', '0.023*deal + 0.015*thanks + 0.011*know + 0.010*kate + 0.010*deals + 0.009*gas + 0.009*let + 0.008*please + 0.006*need + 0.005*enron']
